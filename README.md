@@ -7,7 +7,7 @@ The bot is written in [TypeScript](https://www.typescriptlang.org), `nodejs` and
 Then setup your environment:
 
 ```
-$ git clone https://github.com/SerenityOS/discord-bot
+$ git clone https://github.com/anubhav217/Discord-Bot-Master
 $ cd discord-bot
 $ yarn install
 $ yarn build
