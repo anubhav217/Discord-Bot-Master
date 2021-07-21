@@ -38,9 +38,15 @@
   "homepage": "https://github.com/SerenityOS/discord-bot#readme",
   "devDependencies": {
     "@octokit/types": "^6.19.0",
+ dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-4.28.4
     "@typescript-eslint/eslint-plugin": "^4.28.4",
+    "@typescript-eslint/eslint-plugin": "^4.28.3",
+ dependabot/npm_and_yarn/eslint-7.31.0 Slave_2
     "@typescript-eslint/parser": "^4.28.3",
+    "eslint": "^7.31.0",
+    "@typescript-eslint/parser": "^4.28.4",
     "eslint": "^7.30.0",
+    Slave_2
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-unused-imports": "^1.1.2",
